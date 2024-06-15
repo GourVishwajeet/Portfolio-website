@@ -43,7 +43,7 @@ const projectList = [
     url: "",
   },
   {
-    title: "My CV",
+    title: "My Cv",
     description:
       "my cv is uploaded on github you can download and view from there.",
     url: "https://github.com/GourVishwajeet/Cv-.git",
