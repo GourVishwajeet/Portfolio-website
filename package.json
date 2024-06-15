@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/Yashasvi-30/TemplateaWorkshop",
+  "homepage": "https://github.com/GourVishwajeet/Portfolio-website",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{Yashasvi-30}.github.io/{TemplateaWorkshop}'",
+    "build-gh": "parcel build --public-url 'https://{GourVishwajeet}.github.io/{Portfolio-website}'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
