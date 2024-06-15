@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Learning Management System ",
+    title: "E-Commerce Website",
     description:
-      "Created a learning management system for a school in which students can login and see their courses and teachers can login and upload course material.",
-    url: "https://github.com/Yashasvi-30/Learning-Management-System-",
+      "created an E-commerce website using the MERN-stack technology",
+    url: "",
   },
   {
-    title: "Amazon Clone",
+    title: "E-commerce App",
     description:
-      "Created an Amazon clone using React and Firebase. Users can login and add items to their cart.",
-    url: "https://yashasvi-30.github.io/AmazonClone/",
+      "The E-commerce app is created by using react-native.",
+    url: "",
   },
   {
-    title: "My Resume Site",
+    title: "My CV",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "my cv is uploaded on github you can download and view from there.",
+    url: "https://github.com/GourVishwajeet/Cv-.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GitHub Profile",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "My github profile.",
+    url: "https://github.com/GourVishwajeet",
   },
 ];
 
